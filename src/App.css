@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+  font-family: arial;
+  font-size: 15pt;
+  color: #e0e0e0;
+  background-color: #282c34;
+}
